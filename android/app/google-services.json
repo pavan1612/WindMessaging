@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "157622243730",
+    "firebase_url": "https://windson-messaging.firebaseio.com",
+    "project_id": "windson-messaging",
+    "storage_bucket": "windson-messaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157622243730:android:c850c8ba445729b18cf14b",
+        "android_client_info": {
+          "package_name": "com.example.windson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157622243730-qqpu42btbneb08bc7lm38thjeim37fc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIFrF62INLxonMSB2wK4i08GSfPo5JWDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157622243730-qqpu42btbneb08bc7lm38thjeim37fc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
